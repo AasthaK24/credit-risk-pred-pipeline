@@ -170,11 +170,11 @@ This allows us to understand how individual features influence the likelihood of
 
 ### Feature Importance
 
-![Feature Importance](images/feature_imp.png)
+![Feature Importance](images/shap.png)
 
 ### SHAP Summary Plot
 
-![SHAP Plot](images/shap.png)
+![SHAP Plot](images/feature_imp.png)
 
 ---
 
